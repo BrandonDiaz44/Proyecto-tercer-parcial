@@ -4,7 +4,7 @@
 
 Link del video de youtube: https://youtu.be/ZQ-3T7HwW2Q
 
-Link del video de Drive: https://drive.google.com/file/d/1q17iIgORj1sIkpUp_jEc1oE26tDgDkuK/view
+Link del video de Drive (Por si borran mi video de Youtube por motivos de Copyright: https://drive.google.com/file/d/1q17iIgORj1sIkpUp_jEc1oE26tDgDkuK/view
 
 No pude subir la carpeta de imágenes en donde se encuentran los sprites que utilice ya que son muchos y para Github es muy pesado. Pero los puede ver en el video
 y en persona se los mostraré.
